@@ -1,0 +1,2 @@
+extra java script folder and extra css folder are used for membership request page for picking the date
+ 

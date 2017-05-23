@@ -1,0 +1,8 @@
+in member profile...!!! page..
+
+date of joining..
+monthly fees payment.
+one more table to inform user whether he has to pay the fee ...
+
+membership from...!!
+in radio button try to set all the bowing styles with respect to speed of ball..
